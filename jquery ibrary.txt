@@ -1,0 +1,6 @@
+goto = https://cdnjs.com/ and search jquery and copy the link
+
+include it script tag 
+ex:- <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+
+you can copy it localhost and run it....
